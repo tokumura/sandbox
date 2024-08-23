@@ -1,3 +1,3 @@
 # sandbox
-master 1
-holly 1
+- master 1
+- holly 1
