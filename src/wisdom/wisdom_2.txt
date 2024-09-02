@@ -1,1 +1,2 @@
 wisdom 2
+fix wisdom 2a
