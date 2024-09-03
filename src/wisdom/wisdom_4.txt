@@ -1,1 +1,2 @@
-wisdom 4
+wisdom 4-1
+wisdom 4-2
